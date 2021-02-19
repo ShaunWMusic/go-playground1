@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/http"
 
+	// 3rd party router package
 	"github.com/gorilla/mux"
 )
 
